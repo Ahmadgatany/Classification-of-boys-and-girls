@@ -22,3 +22,7 @@ You can install the required packages using pip:
 
 ```bash
 pip install tensorflow keras numpy matplotlib pillow
+
+### Explanation Section
+
+- **Change File Paths:** This section instructs users to update file paths in the notebook. This ensures that they modify the `base_directory` and other relevant paths to match their local setup for the project to work correctly.
